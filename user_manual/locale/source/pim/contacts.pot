@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Nextcloud latest User Manual latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-28 07:41+0000\n"
+"POT-Creation-Date: 2020-12-11 16:23+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -161,7 +161,7 @@ msgid "Adding and Managing Address Books"
 msgstr ""
 
 #: ../../pim/contacts.rst:109
-msgid "Clicking on the \"Settings\" (gear) button at the bottom of the left sidebar provides access to Contact app settings. This field shows all available address books, certain options for each address book, and enables you to create new address books, simply by specifying an address books name."
+msgid "Clicking on the \"Settings\" (gear) button at the bottom of the left sidebar provides access to Contacts app settings. This field shows all available address books, certain options for each address book, and enables you to create new address books, simply by specifying an address books name."
 msgstr ""
 
 #: ../../pim/contacts.rst:117

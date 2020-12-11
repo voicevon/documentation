@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Nextcloud latest User Manual latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-28 07:41+0000\n"
+"POT-Creation-Date: 2020-12-11 16:23+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -61,7 +61,7 @@ msgid "Navigating the main user interface"
 msgstr ""
 
 #: ../../webinterface.rst:30
-msgid "By default, the Nextcloud Web interface opens to your Files page. You can add, remove, and share files, and make changes based on the access privileges set by you (if you are administering the server) or by your server administrator."
+msgid "By default, the Nextcloud Web interface opens to your Dashboard or Files page. In Files you can add, remove, and share files, and make changes based on the access privileges set by you (if you are administering the server) or by your server administrator."
 msgstr ""
 
 #: ../../webinterface.rst:38
@@ -101,7 +101,7 @@ msgid "**Contacts Menu** (7): Gives you an overview about your contacts and user
 msgstr ""
 
 #: ../../webinterface.rst:72
-msgid "**Gallery** button (8). This looks like four little squares, and takes you directly to your image gallery."
+msgid "**Grid view** button (8). This looks like four little squares, which toggles the grid view for folders and files."
 msgstr ""
 
 #: ../../webinterface.rst:75
